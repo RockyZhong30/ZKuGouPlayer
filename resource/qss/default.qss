@@ -1,0 +1,19 @@
+ZSearchLineEdit#QLineEdit{
+	border-radius:13px;
+	background:rgba(255,255,255,180);
+
+	/*QPushButton{
+		background:transparent;
+		border-image: url(:/image/search_bg);
+	}*/
+}
+
+/*ZSearchLineEdit_btn{
+	border-image: url(:/image/search_bg);
+}
+ZSearchLineEdit#ZSearchLineEdit_btn:hover{
+	border-image: url(:/image/search_hover);
+}
+ZSearchLineEdit#ZSearchLineEdit_btn:pressed{
+	border-image: url(:/image/search_press);
+}*/
